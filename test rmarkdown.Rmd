@@ -2,7 +2,7 @@
 title: "test rmarkdown"
 author: "Yuki Zhang"
 date: "9/9/2019"
-output: html_document
+output: pdf_document
 ---
 
 
